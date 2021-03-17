@@ -12,3 +12,13 @@
 <li>Show the many more leagues after clicking the 'Load More' button option</li>
 <li>A loading spinner is shown until the data is loaded</li>
 </ul>
+<hr/>
+<h1>Technology</h1>
+<ul>
+  <li>React</li>
+<li>React Router</li>
+<li>React Hooks</li>
+<li>Bootstrap</li>
+<li>Font Awesome</li>
+</ul>
+
