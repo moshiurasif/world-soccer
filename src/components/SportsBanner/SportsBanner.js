@@ -15,7 +15,7 @@ const SportsBanner = () => {
     return (
         <div>
             <div style={bannerStyle} className="d-flex justify-content-center align-items-center">
-                <h1 className="text-white text-capitalize text-center font-weight-bold">sports world</h1>
+                <h1 className="text-white text-capitalize text-center font-weight-bold">World Soccer</h1>
             </div>
         </div>
     );

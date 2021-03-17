@@ -9,7 +9,7 @@ const NoMatch = () => {
             <div className="text-center logo-info">
                 <div className="pad">
                     <img src={logo} className="img-fluid" alt="website logo"/>
-                    <span className="ml-2">Sports World</span>
+                    <span className="ml-2">World Soccer</span>
                 </div>
             </div>
             <div className="info container">

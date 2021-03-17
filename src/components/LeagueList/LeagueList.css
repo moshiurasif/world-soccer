@@ -1,5 +1,5 @@
 .card{
-    background-color: #1c212d !important;
+    background-color: #4f8804 !important;
     padding: 10px;
     border: 1px solid #0084B4 !important;
     border-radius: 5px;
@@ -13,7 +13,7 @@
 }
 .card-body,
 .footer-card{
-    background-color: #1c212d;
+    background-color: #4f8804;
 }
 .leagueImg{
     height: 120px;
